@@ -1,10 +1,10 @@
 ## Nombre
 
-Pepito Pérez
+Carlos Pinto
 
 ## Descripción Proyecto
 
-Tomé los datos de infectados y de transmilenio para identificar una solución bien informada basada en evidencia.
+TBD
 
 ## Resultados
 
@@ -12,16 +12,8 @@ Tomé los datos de infectados y de transmilenio para identificar una solución b
 
 ## Pasos metodología
 
-- Carga de datos de Fuente1, Fuente2, Fuente3
-- Limpieza usando herramienta1 y herramienta2
-- Modelos usando algoritmo1 y estadísticas2
-- Visualización usando librería1 y herramienta3
-- Presentación resultados en páginaweb1 y en diapositivasX
-
-
+TBD
 
 ## Otros links relevantes
 
-- Más código fuente disponible en XXX
-- Más literatura disponible en XXX
-- Más datos procesados disponibles en XXX
+TBD
