@@ -73,8 +73,9 @@ En [esta página](faq/datos.md) estaremos publicando todos los datos que puedan 
 
 ## Cronograma
 
-Agrega este [calendario](https://calendar.google.com/calendar?cid=bnVtby5nbG9iYWxfMmZlMnZtaHZmdGltdjdnaDhhZXVxMjJ0bm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+Agrega este [calendario de Google](https://calendar.google.com/calendar?cid=bnVtby5nbG9iYWxfMmZlMnZtaHZmdGltdjdnaDhhZXVxMjJ0bm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+Descarga Calendario [ics](/static/invite.ics)
 
 **Inscripciones:** Desde el jueves 19 a las 6pm.
 
@@ -98,8 +99,9 @@ Durante la Hackaton estaremos teniendo conversaciones virtuales sobre temas rele
 - Primer webinar. Lanzamiento e introducción. [Ver video - 31 mins](https://wri.zoom.us/rec/share/vdNqduvLzWNIXLOX8GLjCqQsN9j1eaa823VMrvQEyHeLDthKUTi5J2VgeJ39OBg)
 - Segundo webinar. Carlos Pardo [Ver video - 58 mins](https://wri.zoom.us/rec/play/tZwkJuGuq2o3GoWXuASDAKd7W9W_Kqus0XVP_aUEnhuyUnkCY1DwMrVBNubPyK7Y8T0SamOnR-ZJ4XNe?startTime=1584731013000)
 - Tercer webinar. Nicolás Estupiñán - Secretario de Movilidad. [Ver video - 20 mins](https://wri.zoom.us/rec/play/upEpdu78_Ts3G9WVtgSDVv95W9Toeq2s1XMc8_IPyk3mUiNVMFvyZuMQMedKvy_ElJZKFeFrtVDcpOc-?continueMode=true). [Leer notas](/faq/notas-webinars.md)
-
-
+- Cuarto webinar. Juan Pablo Marín Díaz. Acceso a datos públicos con R. [Descargar video 1:00 hora 200 MB](https://data.datasketch.co/numo/movid19/webinars/meetup-r-movid19.mp4)
+- Quinto webinar. Erik Vergel. Mapatones Bogotá. [Ver video 53 mins](https://wri.zoom.us/rec/play/6Zwqdriqpjg3H4WX4wSDAvMrW43oKPms1HVKqfoKn0m0BnFXNgH3NbsUZI4SHXgRYJeMfLZ8eLVrPi0?continueMode=true)
+- Sexto webinar. Marina Troncoso y José Segundo López. [Ver video 57 mins](https://wri.zoom.us/rec/share/98pMbI3OrVxIGo2W9BzWd_Y7QKXrT6a81nAc-KZezp9FaQ4vJnIqo3CERKoxfic)
 
 ## Preguntas frecuentes
 
