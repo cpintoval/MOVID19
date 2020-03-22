@@ -15,6 +15,7 @@ https://www.mintransporte.gov.co/publicaciones/8238/medidas-para-la-contencion-d
 - Worldometer daily increases http://bit.ly/2UthvuM
 - Otro _dashboard_ http://bit.ly/39TwQv7
 - Recursos clínicos http://bit.ly/2J24280
+- Página web (en inglés) con bases de datos sobre COVID y modelos (para Estados Unidos) https://covidactnow.org 
 
 ### Fuente Generales
 
@@ -30,7 +31,7 @@ https://www.mintransporte.gov.co/publicaciones/8238/medidas-para-la-contencion-d
 - Cámara  de Comercio de Bogotá: https://opendatabogota.ccb.org.co/
 - Global public transit report https://moovitapp.com/insights/en/Moovit_Insights_Public_Transit_Index-countries 
 - OpenStreetMap Usando overpass turbo <https://overpass-turbo.eu/> 
-
+- Data for good on Global Mobility https://www.cuebiq.com/about/data-for-good/
 
 
 
