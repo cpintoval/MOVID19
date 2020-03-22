@@ -40,6 +40,7 @@ mydata[, FECHA := as.POSIXct(CLEARING_TEXTO, format = "%d/%m/%Y")]
 # Análisis
 Dada mi corta experiencia con R, decidí hacer un subset de los datos y analizaros en una herramienta que conocía mejor: Tableau Public. A continuación encontrarán algunos de los insights que encontré de estos datos:
 
+## Estaciones con mayor tráfico en Marzo 2020
 ![alt text](/participantes/carlos_pinto/visualizacion/box_plot.png "Estaciones con mayor tráfico en Marzo 2020")
 
 Como se puede apreciar en la gráfica, las estaciones con mayor tráfico son:
@@ -53,3 +54,8 @@ Como se puede apreciar en la gráfica, las estaciones con mayor tráfico son:
 8. San Mateo
 9. Portal Tunal
 10. Banderas P. Central
+
+## Evolución uso de estación Autopista Norte
+![alt text](/participantes/carlos_pinto/visualizacion/autonorte_line_plot_over_time.png "Evolución uso de estación Autopista Norte en Marzo 2020")
+
+Al analizar la evolución del tráfico en la estación más utilizada, es posible ver cómo la tendencia de uso disminuye hacia el 18 de Marzo, cuando la mayoría de personas que no debe transportarse decide quedarse en casa. Este es el momento en el que podemos ver que el transporte comienza a ser utilizado por la población que realmente lo necesita.
