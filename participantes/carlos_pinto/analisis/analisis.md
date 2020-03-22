@@ -1,5 +1,11 @@
 ## Análisis
 
+Para analizar la forma en la que se está movilizando la gente usando el servicio público, utilicé los datos de Recaudo Bogotá.
+
+Debido al tamaño de este dataset, encontré que lo más recomendable era utilizar el paquete `data.table` de `R` para poder hacer parsing de estos datos de manera fácil y rápida.
+
+Posteriormente, pude encontrar que existían algunas inconsistencias con las fechas, por lo que realicé un limpiado de los datos utilizando el siguiente script de `R`.
+
 ```R
 library(data.table)
 library(ggplot2)
@@ -31,4 +37,19 @@ mydata[CLEARING_TEXTO == "18-03-2020", CLEARING_TEXTO := "18/03/2020"]
 mydata[, FECHA := as.POSIXct(CLEARING_TEXTO, format = "%d/%m/%Y")]
 ```
 
+# Análisis
+Dada mi corta experiencia con R, decidí hacer un subset de los datos y analizaros en una herramienta que conocía mejor: Tableau Public. A continuación encontrarán algunos de los insights que encontré de estos datos:
 
+![alt text](/participantes/carlos_pinto/visualizacion/box_plot.png "Estaciones con mayor tráfico en Marzo 2020")
+
+Como se puede apreciar en la gráfica, las estaciones con mayor tráfico son:
+1. Cabecera Autopista Norte
+2. Portal Américas
+3. Cabecera Calle 80
+4. Portal Suba
+5. Portal Sur
+6. Portal El Dorado
+7. Cabecera Usme
+8. San Mateo
+9. Portal Tunal
+10. Banderas P. Central

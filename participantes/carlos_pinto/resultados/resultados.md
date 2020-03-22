@@ -10,7 +10,7 @@ Tomé los datos de validaciones de Recaudo Bogotá para obtener una visión gene
 
 
 [x] Confirmo que conozco los criterios de evaluación y términos
-[x] Confirmo que la presentación de resultados sigue la plantilla disponible [aquí](https://docs.google.com/presentation/d/1dCFx4epg2Ny-g-Ubq9esXCEXE6pEQwWsn1T7OImvzdI/edit?usp=sharing) y está en formato PDF.
+[] Confirmo que la presentación de resultados sigue la plantilla disponible [aquí](https://docs.google.com/presentation/d/1dCFx4epg2Ny-g-Ubq9esXCEXE6pEQwWsn1T7OImvzdI/edit?usp=sharing) y está en formato PDF.
 
 
 ## Pasos metodología
