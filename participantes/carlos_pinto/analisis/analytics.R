@@ -1,10 +1,6 @@
-## Análisis
-
-```R
 library(data.table)
 library(ggplot2)
 
-# Read data from file (it may take a few minutes, depending on your computer)
 mydata <- fread("Data Validaciones Desnormalizadas.txt")
 
 # Performing some data cleaning due to different date formats
@@ -26,9 +22,5 @@ mydata[CLEARING_TEXTO == "15-03-2020", CLEARING_TEXTO := "15/03/2020"]
 mydata[CLEARING_TEXTO == "16-03-2020", CLEARING_TEXTO := "16/03/2020"]
 mydata[CLEARING_TEXTO == "17-03-2020", CLEARING_TEXTO := "17/03/2020"]
 mydata[CLEARING_TEXTO == "18-03-2020", CLEARING_TEXTO := "18/03/2020"]
-
-# Format dates
-mydata[, FECHA := as.POSIXct(CLEARING_TEXTO, format = "%d/%m/%Y")]
-```
 
 
